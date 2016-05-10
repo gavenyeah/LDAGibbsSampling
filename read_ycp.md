@@ -1,0 +1,1 @@
+This file is to test the connection of github for windows and github.com
